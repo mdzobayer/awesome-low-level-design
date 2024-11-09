@@ -13,6 +13,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/onlineshopping/) 
 #### [Python Implementation](../solutions/python/onlineshopping/)
+#### [C# Implementation](../solutions/c#/OnlineShoppingService/)
+#### [Go Implementation](../solutions/golang/onlineshopping/)
 
 ## Classes, Interfaces and Enumerations
 1. The **User** class represents a user in the online shopping service, with properties such as ID, name, email, password, and a list of orders.

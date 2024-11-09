@@ -2,9 +2,10 @@
   <img src="images/lld-repo-logo.png" width="350" height="200">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://blog.algomaster.io/">Newsletter</a>
+  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
 </p>
-Learn Low Level Design (LLD) and prepare for interviews using free resources.
+
+This repository contains resources to learn Low Level Design (LLD) / Object Oriented Design (OOD) and prepare for interviews.
 
 ## 📌 Fundamental Concepts
 - [Basics OOP Concepts](https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code)
@@ -21,6 +22,7 @@ Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [Factory Method](https://refactoring.guru/design-patterns/factory-method)
 - [Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
 - [Builder](https://refactoring.guru/design-patterns/builder)
+- [Prototype](https://refactoring.guru/design-patterns/prototype)
 ### Structural Patterns
 - [Adapter](https://refactoring.guru/design-patterns/adapter)
 - [Facade](https://refactoring.guru/design-patterns/facade)
@@ -40,6 +42,9 @@ Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [Sequence Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/)
 - [Activity Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/)
 - [State Machine Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-state-machine-diagram/)
+
+### ✅ [How to Answer a LLD Interview Problem](https://blog.algomaster.io/p/how-to-answer-a-lld-interview-problem)
+<img src="images/interview-template.png" width="350" height="250">
 
 ## 💻 Low Level Design Interview Problems
 ### Easy
@@ -80,9 +85,9 @@ Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [Design University Course Registration System](problems/course-registration-system.md)
 
 ## 📚 Books
-- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/)
-- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X8ZXT15)
-- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)
+- [Head First Design Patterns](https://amzn.to/3AmTYEN)
+- [Clean Code](https://amzn.to/4hgxN3S)
+- [Refactoring: Improving the Design of Existing Code](https://amzn.to/3YyuH3Y)
 
 ## Additional resources
 - [Coursera - Design Patterns](https://www.coursera.org/learn/design-patterns)
